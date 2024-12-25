@@ -1,5 +1,7 @@
 # Microservices Architecture
 
+![Microservices](Microservices.webp)
+
 ## Table of Contents
 
 - [Monolithic Services](#monolithic-services)
