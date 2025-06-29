@@ -354,4 +354,3 @@ Each microservice can independently implement CQRS principles:
 - **Event Management:** You need robust mechanisms for event handling and data synchronization.
 
 In short, CQRS helps you design microservices with clear responsibilities, making them more scalable and performant at the cost of added complexity.
-
